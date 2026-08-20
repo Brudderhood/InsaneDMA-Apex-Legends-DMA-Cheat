@@ -1,0 +1,15 @@
+# Keep this public advertisement repository free of builds and secrets.
+*.env
+*.local.env
+*.key
+*.pem
+*.pfx
+*.p12
+*credentials*
+*SIGNING-KEY*
+*.exe
+*.dll
+*.sys
+*.zip
+*.7z
+*.rar
